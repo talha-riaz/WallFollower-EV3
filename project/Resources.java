@@ -1,4 +1,4 @@
-package ca.mcgill.ecse211.project;
+package project;
 
 import lejos.hardware.ev3.LocalEV3;
 import lejos.hardware.lcd.TextLCD;
@@ -13,7 +13,7 @@ import lejos.hardware.sensor.EV3UltrasonicSensor;
  * <br><br>
  * Use these resources in other files by adding this line at the top (see examples):<br><br>
  * 
- * {@code import static ca.mcgill.ecse211.project.Resources.*;}
+ * {@code import static project.Resources.*;}
  */
 public class Resources {
   //Parameters: adjust these for desired performance
