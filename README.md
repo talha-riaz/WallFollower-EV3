@@ -2,6 +2,8 @@
 
 Designed a functioning Wall follower robot using LEGO Mindstorms EV3 as part of a design class.
 
+The robot is programmed using the <a href="http://www.lejos.org/">LeJOS</a> Java library.
+
 EV3 Robot            |  Robot Path
 :-------------------------:|:-------------------------:
 <img src=https://github.com/talha-riaz/WallFollower-EV3/blob/master/img/a.jpg height=300 width=250>  |  ![](https://github.com/talha-riaz/WallFollower-EV3/blob/master/img/b.png)
