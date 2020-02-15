@@ -1,6 +1,6 @@
-package ca.mcgill.ecse211.project;
+package project;
 
-import static ca.mcgill.ecse211.project.Resources.*;
+import static project.Resources.*;
 
 /**
  * Controls the robot's movements based on ultrasonic data.
